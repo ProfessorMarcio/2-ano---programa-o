@@ -3,9 +3,13 @@ body {
 }
 
 .imagem30 {
-    width: 30%;
+    width: 10%;
 }
 
 .imagem20 {
     width: 20%;
+}
+
+.titulo {
+    font-size: 60px;
 }
