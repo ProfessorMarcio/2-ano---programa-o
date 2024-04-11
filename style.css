@@ -20,12 +20,12 @@ body {
     font-size: 30px;
     text-align: center;
     margin: 2 2px;
-    padding: 24 0px;
+    padding: 24 24px;
     display: flex;
 }
 
 .parte1 {
     display: flex;
     justify-content: space-around;
-    padding: 24 0px;
+    padding: 24 24px;
 }
