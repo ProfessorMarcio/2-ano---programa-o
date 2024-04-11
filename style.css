@@ -18,3 +18,7 @@ body {
     padding: 2px;
     display: flex;
 }
+
+.parte1 {
+    display: flex;
+}
