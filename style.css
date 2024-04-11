@@ -17,6 +17,7 @@ body {
 
 .cabecalho {
     background-color: rgba(0, 0, 255, 0.712);
+    display: flex;
 }
 
 .cabecalho-lista {
