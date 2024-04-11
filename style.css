@@ -23,8 +23,6 @@ body {
     background-color: rgba(0, 0, 255, 0.712);
     font-size: 30px;
     text-align: center;
-    margin: 24 24px;
-    padding: 24 60px;
     display: flex;
 }
 
