@@ -24,12 +24,8 @@ body {
     font-size: 30px;
     text-align: center;
     margin: 24 24px;
-    padding: 24 24px;
+    padding: 24 60px;
     display: flex;
-}
-
-.titulo {
-    padding: 60 60px;
 }
 
 .parte1 {
