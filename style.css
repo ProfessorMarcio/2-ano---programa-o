@@ -17,12 +17,12 @@ body {
 
 .cabecalho {
     background-color: rgba(0, 0, 255, 0.712);
-    font-size: 30px;
-    justify-content: space-around;
 }
 
 .cabecalho-lista {
+    font-size: 30px;
     padding: 24 24px;
+    justify-content: space-around;
 }
 
 .cabecalho-lista-item {
