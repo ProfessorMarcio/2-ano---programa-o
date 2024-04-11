@@ -29,7 +29,7 @@ body {
 }
 
 .parte1 {
-    background-color: rgb(0, 153, 255);
+    background-image: linear-gradient(rgba(0, 0, 255, 0.712),azure);
     display: inline-block;
     padding: 24 24px;
 }
