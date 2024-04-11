@@ -7,27 +7,19 @@ body {
     background-color: azure;
 }
 
-.imagem7 {
-    width: 7%;
-}
-
-.imagem10 {
-    width: 10%;
-}
-
 .cabecalho {
     background-color: rgba(0, 0, 255, 0.712);
     display: flex;
+    padding: 24 24px;
 }
 
-.cabecalho-lista {
-    font-size: 30px;
-    padding: 24 24px;
-    justify-content: space-around;
+.cabecalho-imagem {
+    width: 25%;
 }
 
-.cabecalho-lista-item {
-    padding: 24 24px;
+.titulo {
+    font-size: 40px;
+    color: blanchedalmond;
 }
 
 .parte1 {
@@ -35,4 +27,12 @@ body {
     display: inline-block;
     padding: 24 24px;
     justify-content: center;
+}
+
+.imagem7 {
+    width: 7%;
+}
+
+.imagem10 {
+    width: 10%;
 }
