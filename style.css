@@ -20,6 +20,14 @@ body {
     font-size: 30px;
 }
 
+.cabecalho-lista {
+    padding: 24 24px;
+}
+
+.cabecalho-lista-item {
+    padding: 24 24px;
+}
+
 .parte1 {
     background-image: linear-gradient(rgba(0, 0, 255, 0.712),azure);
     display: inline-block;
