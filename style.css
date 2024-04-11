@@ -10,7 +10,7 @@ body {
 .cabecalho {
     background-color: rgba(0, 0, 255, 0.712);
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding: 24 24px;
 }
 
@@ -21,7 +21,7 @@ body {
 .titulo {
     font-size: 40px;
     color: blanchedalmond;
-    margin: 24 24px;
+    margin: 60 60px;
 }
 
 .parte1 {
