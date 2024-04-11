@@ -27,5 +27,5 @@ body {
 .parte1 {
     display: flex;
     justify-content: space-around;
-    padding: 2 2px;
+    padding: 24 0px;
 }
