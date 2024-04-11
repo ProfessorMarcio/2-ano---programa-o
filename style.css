@@ -25,8 +25,6 @@ body {
 .parte1 {
     background-image: linear-gradient(rgba(0, 0, 255, 0.712),azure);
     display: inline-flexbox;
-    padding: 24 24px;
-    margin: 30 30px;
 }
 
 .imagem7 {
